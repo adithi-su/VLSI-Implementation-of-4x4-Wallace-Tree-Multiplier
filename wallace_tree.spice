@@ -1,0 +1,1317 @@
+* SPICE3 file created from wallace_tree.ext - technology: scmos
+
+.option scale=1u
+
+M1000 a_11_721# y3a Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1001 a_8_1142# y0b Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1002 a_420_145# a_287_191# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1003 a_569_297# a_507_343# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1004 a_152_400# P13 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1005 a_240_145# a_107_191# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1006 a_189_646# a_131_607# a_189_626# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1007 a_32_1283# x0a Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1008 P03 a_11_721# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1009 a_602_635# S13 a_602_615# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1010 a_313_945# a_191_984# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1011 P03 a_11_721# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1012 a_322_481# P31 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1013 C01 a_84_1225# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1014 P10 a_8_1142# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1015 a_772_118# a_710_144# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1016 S04 a_152_351# a_210_370# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1017 a_650_157# a_592_118# a_650_137# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1018 a_146_1199# P10 a_146_1179# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1019 a_32_1196# x0b Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1020 C12 a_616_753# Gnd Gnd nfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1021 a_394_793# a_336_823# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1022 a_710_144# a_650_157# a_710_124# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1023 a_146_1199# a_84_1225# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1024 a_664_609# a_602_635# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1025 a_311_607# a_249_633# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1026 a_849_296# a_820_297# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1027 a_627_356# a_569_317# a_627_336# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1028 a_454_780# C02 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1029 a_530_144# C14 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1030 P12 a_11_637# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1031 P12 a_11_637# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1032 a_687_343# a_627_356# a_687_323# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1033 a_349_214# a_287_191# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1034 a_449_167# a_240_145# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1035 a_407_184# a_349_214# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1036 a_13_297# y2c a_38_263# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1037 a_507_343# C13 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1038 a_287_191# a_227_204# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1039 S03 a_311_607# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1040 a_843_98# a_710_144# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1041 a_13_297# y2c Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1042 a_566_968# S12 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1043 a_844_658# C21 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1044 a_240_145# a_107_191# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1045 a_749_317# a_687_343# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1046 a_414_947# a_204_925# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1047 a_592_118# P33 a_592_98# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1048 a_13_210# y2d a_38_176# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1049 a_13_210# y2d Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1050 a_440_478# a_380_491# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1051 a_9_1061# y0c Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1052 S01 a_146_1199# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1053 a_133_945# P02 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1054 S02 a_313_994# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1055 a_152_351# a_90_377# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1056 a_502_501# C03 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1057 a_592_118# a_530_144# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1058 a_313_925# a_251_971# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1059 S21 a_628_942# a_686_961# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1060 S12 a_516_823# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1061 P20 a_9_1061# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1062 a_530_144# P33 a_530_124# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1063 a_131_607# a_69_633# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1064 a_69_633# P12 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1065 a_274_780# P30 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1066 a_313_994# a_251_971# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1067 a_944_588# a_735_589# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1068 a_407_754# a_274_800# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1069 a_71_971# P02 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1070 a_169_214# a_107_191# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1071 a_507_343# S14 a_507_323# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1072 a_772_167# C23 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1073 S11 a_374_1200# a_432_1219# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1074 a_844_658# a_782_635# a_844_638# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1075 a_7_1317# y0a a_32_1283# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1076 a_107_191# P32 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1077 a_227_184# a_169_214# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1078 S11 a_374_1249# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1079 a_664_658# C12 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1080 a_311_656# P03 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1081 a_569_317# a_507_343# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1082 a_602_431# a_393_432# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1083 a_369_626# a_311_656# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1084 a_249_633# a_189_646# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1085 a_349_165# a_227_204# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1086 a_566_948# C11 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1087 a_7_1230# y1a a_32_1196# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1088 a_260_478# S04 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1089 a_782_615# C21 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1090 S02 a_313_945# a_371_964# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1091 a_412_586# a_382_587# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1092 a_152_351# P22 a_152_331# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1093 a_440_458# C03 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1094 a_191_984# a_133_994# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1095 a_322_501# P31 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1096 a_516_823# a_454_800# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1097 a_573_432# a_440_478# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1098 a_133_925# a_71_971# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1099 a_12_462# y1d a_37_428# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1100 a_616_776# a_407_754# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1101 a_12_462# y1d Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1102 P01 a_7_1230# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1103 a_69_633# Gnd a_69_613# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1104 a_251_971# P20 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1105 a_394_813# a_336_823# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1106 a_749_366# C22 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1107 a_382_587# a_249_633# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1108 a_33_1108# x1a Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1109 a_407_754# a_274_800# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1110 a_454_800# C02 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1111 C21 a_566_968# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1112 a_502_452# a_440_478# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1113 a_772_167# a_710_144# a_772_147# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1114 P31 a_12_462# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1115 a_84_1225# P10 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1116 a_133_994# a_71_971# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1117 P31 a_12_462# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1118 a_592_167# C14 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1119 a_313_974# P20 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1120 a_849_296# a_820_297# a_849_319# Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1121 a_71_951# P11 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1122 a_90_377# P22 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1123 a_664_658# a_602_635# a_664_638# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1124 S22 a_844_609# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1125 a_311_656# a_249_633# a_311_636# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1126 S14 a_349_214# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1127 a_628_942# a_566_968# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1128 a_131_656# P12 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1129 a_107_171# P23 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1130 a_189_626# a_131_656# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1131 a_772_118# a_650_157# a_772_98# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1132 a_169_165# P32 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1133 C_out a_872_97# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1134 a_844_609# a_722_648# a_844_589# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1135 a_249_613# P03 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1136 a_349_145# a_287_191# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1137 a_872_97# a_843_98# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1138 a_849_296# a_640_297# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1139 a_573_432# a_440_478# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1140 a_260_458# P31 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1141 a_251_971# a_191_984# a_251_951# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1142 a_336_823# a_274_800# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1143 a_204_1218# a_146_1248# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1144 a_312_1226# S02 a_312_1206# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1145 a_393_432# a_260_478# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1146 a_749_366# a_687_343# a_749_346# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1147 S13 a_502_452# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1148 a_516_803# C02 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1149 a_312_1226# C01 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1150 a_569_366# C13 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1151 a_502_452# a_380_491# a_502_432# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1152 C21 a_566_968# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1153 a_35_768# x3a Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1154 a_872_97# a_663_98# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1155 a_10_802# x3a Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1156 a_274_800# P30 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1157 a_516_774# a_394_813# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1158 a_687_323# C22 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1159 a_152_400# a_90_377# a_152_380# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1160 a_322_452# a_260_478# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1161 a_34_1027# x2a Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1162 a_11_637# y2b a_36_603# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1163 a_628_942# S12 a_628_922# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1164 a_287_191# C04 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1165 a_11_637# y2b Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1166 a_146_1248# a_84_1225# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1167 a_133_974# P11 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1168 a_84_1205# P01 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1169 C14 a_449_144# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1170 a_722_648# a_664_609# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1171 a_131_656# a_69_633# a_131_636# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1172 a_227_204# a_169_214# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1173 a_11_550# y1c a_36_516# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1174 a_902_628# a_844_658# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1175 a_782_635# a_722_648# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1176 C04 a_90_377# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1177 a_14_122# x2d Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1178 a_11_550# y1c Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1179 a_38_347# x1d Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1180 a_13_381# x1d Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1181 a_382_587# a_249_633# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1182 S24 a_772_118# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1183 a_664_609# S13 a_664_589# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1184 a_311_607# a_189_646# a_311_587# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1185 a_169_145# a_107_191# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1186 a_393_432# a_260_478# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1187 a_412_586# a_202_587# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1188 Gnd a_11_550# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1189 a_569_366# a_507_343# a_569_346# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1190 a_628_991# C11 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1191 a_686_961# a_628_991# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1192 S23 a_749_317# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1193 Gnd a_11_550# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1194 a_412_586# a_382_587# a_412_609# Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1195 a_380_491# a_322_452# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1196 a_336_803# P30 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1197 a_374_1249# a_312_1226# a_374_1229# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1198 P00 a_7_1317# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1199 a_322_452# S04 a_322_432# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1200 C02 a_414_924# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1201 a_374_1180# a_312_1226# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1202 a_560_471# a_502_501# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1203 a_374_1249# C01 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1204 a_349_194# C04 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1205 a_336_774# S03 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1206 a_749_317# a_627_356# a_749_297# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1207 C01 a_84_1225# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1208 a_449_144# a_420_145# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1209 a_516_754# a_454_800# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1210 a_602_431# a_573_432# a_602_454# Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1211 a_189_646# a_131_607# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1212 C04 a_90_377# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1213 a_34_943# x1b Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1214 a_502_501# a_440_478# a_502_481# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1215 a_915_589# a_782_635# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1216 a_722_628# a_664_658# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1217 a_9_977# x1b Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1218 a_602_635# S13 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1219 S12 a_516_774# a_574_793# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1220 S04 a_152_351# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1221 a_650_157# a_592_118# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1222 a_90_357# P13 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1223 a_146_1199# P10 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1224 a_844_609# a_722_648# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1225 C22 a_944_588# Gnd Gnd nfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1226 a_131_607# Gnd a_131_587# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1227 a_34_856# x0c Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1228 a_944_588# a_915_589# a_944_611# Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1229 a_628_991# a_566_968# a_628_971# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1230 a_9_890# x0c Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1231 a_710_144# a_650_157# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1232 a_830_137# a_772_167# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1233 a_627_356# a_569_317# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1234 a_849_319# a_640_297# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1235 C12 a_616_753# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1236 a_414_924# a_384_925# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1237 a_807_336# a_749_366# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1238 a_687_343# a_627_356# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1239 C13 a_602_431# Gnd Gnd nfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1240 a_380_471# a_322_501# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1241 x3y0 a_10_802# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1242 a_169_194# P23 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1243 x3y0 a_10_802# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1244 a_569_317# S14 a_569_297# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1245 a_152_400# a_90_377# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1246 a_336_754# a_274_800# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1247 a_384_925# a_251_971# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1248 a_7_1317# x0a Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1249 a_322_501# a_260_478# a_322_481# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1250 a_146_1228# P01 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1251 a_772_118# a_650_157# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1252 a_735_589# a_602_635# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1253 a_872_97# a_843_98# a_872_120# Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1254 a_602_615# C12 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1255 a_7_1230# x0b Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1256 a_191_984# a_133_945# a_191_964# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1257 a_313_945# a_251_971# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1258 a_664_609# S13 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1259 a_311_607# a_189_646# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1260 C23 a_849_296# Gnd Gnd nfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1261 S21 a_628_942# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1262 a_210_370# a_152_400# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1263 a_454_800# a_394_813# a_454_780# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1264 a_650_137# a_592_167# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1265 a_530_144# P33 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1266 P11 a_9_977# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1267 a_616_753# a_587_754# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1268 P11 a_9_977# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1269 a_710_124# C23 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1270 a_820_297# a_687_343# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1271 a_627_336# a_569_366# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1272 S14 a_349_165# a_407_184# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1273 a_507_343# S14 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1274 a_412_609# a_202_587# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1275 a_915_589# a_782_635# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1276 a_202_587# a_69_633# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1277 a_374_1200# a_312_1226# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1278 S11 a_374_1200# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1279 a_39_88# x2d Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1280 a_15_41# y3d a_40_7# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1281 a_844_658# a_782_635# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1282 a_592_167# a_530_144# a_592_147# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1283 a_349_214# C04 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1284 a_749_317# a_627_356# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1285 a_384_925# a_251_971# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1286 S03 a_311_656# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1287 C_out a_872_97# Gnd Gnd nfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1288 a_566_968# C11 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1289 a_782_635# C21 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1290 S02 a_313_945# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1291 P33 a_15_41# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1292 a_152_351# P22 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1293 a_502_501# a_440_478# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1294 a_8_1142# y0b a_33_1108# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1295 a_313_945# a_191_984# a_313_925# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1296 a_602_454# a_393_432# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1297 a_440_478# C03 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1298 a_8_1142# x1a Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1299 S12 a_516_774# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1300 a_133_945# a_71_971# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1301 a_131_607# Gnd Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1302 a_69_633# Gnd Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1303 a_274_800# S03 a_274_780# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1304 a_146_1179# a_84_1225# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1305 P10 a_8_1142# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1306 a_449_144# a_240_145# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1307 a_944_611# a_735_589# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1308 a_843_98# a_710_144# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1309 a_530_124# C14 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1310 a_772_167# a_710_144# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1311 a_640_297# a_507_343# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1312 a_227_204# a_169_165# a_227_184# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1313 a_735_589# a_602_635# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1314 a_7_1317# y0a Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1315 a_313_994# P20 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1316 a_414_924# a_204_925# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1317 a_71_971# P11 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1318 a_664_658# a_602_635# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1319 a_169_214# P23 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1320 a_507_323# C13 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1321 a_311_656# a_249_633# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1322 a_287_191# a_227_204# a_287_171# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1323 a_569_317# S14 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1324 S03 a_311_607# a_369_626# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1325 a_566_968# S12 a_566_948# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1326 a_844_638# C21 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1327 a_107_191# P23 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1328 C03 a_412_586# Gnd Gnd nfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1329 a_189_646# a_131_656# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1330 a_7_1230# y1a Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1331 a_440_478# a_380_491# a_440_458# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1332 a_249_633# P03 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1333 a_349_165# a_287_191# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1334 a_38_263# x2c Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1335 a_322_501# a_260_478# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1336 S01 a_146_1199# a_204_1218# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1337 a_133_945# P02 a_133_925# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1338 a_13_297# x2c Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1339 a_10_802# y0d a_35_768# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1340 a_260_478# P31 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1341 a_371_964# a_313_994# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1342 a_820_297# a_687_343# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1343 a_10_802# y0d Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1344 a_251_971# a_191_984# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1345 a_152_331# a_90_377# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1346 S01 a_146_1248# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1347 a_312_1226# S02 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1348 a_202_587# a_69_633# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1349 a_749_366# a_687_343# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1350 P01 a_7_1230# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1351 a_9_1061# y0c a_34_1027# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1352 a_872_120# a_663_98# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1353 a_38_176# x3c Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1354 a_13_210# x3c Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1355 a_516_823# C02 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1356 a_9_1061# x2a Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1357 a_14_122# y3c a_39_88# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1358 a_454_800# a_394_813# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1359 a_502_452# a_380_491# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1360 a_14_122# y3c Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1361 a_69_613# P12 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1362 a_663_98# a_530_144# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1363 a_687_343# C22 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1364 a_313_994# a_251_971# a_313_974# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1365 C23 a_849_296# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1366 a_71_971# P02 a_71_951# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1367 P20 a_9_1061# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1368 S14 a_349_165# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1369 a_13_381# y3b a_38_347# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1370 a_628_942# S12 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1371 a_772_147# C23 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1372 P32 a_14_122# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1373 a_13_381# y3b Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1374 a_133_994# P11 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1375 a_84_1225# P01 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1376 P32 a_14_122# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1377 a_131_656# a_69_633# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1378 a_107_191# P32 a_107_171# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1379 a_432_1219# a_374_1249# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1380 a_664_638# C12 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1381 S22 a_844_658# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1382 a_311_636# P03 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1383 a_249_633# a_189_646# a_249_613# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1384 a_349_165# a_227_204# a_349_145# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1385 P13 a_13_381# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1386 P13 a_13_381# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1387 a_260_478# S04 a_260_458# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1388 a_616_753# a_407_754# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1389 a_592_98# a_530_144# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1390 a_169_165# a_107_191# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1391 a_640_297# a_507_343# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1392 a_844_589# a_782_635# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1393 a_191_964# a_133_994# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1394 a_394_813# a_336_774# a_394_793# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1395 a_516_823# a_454_800# a_516_803# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1396 a_569_366# a_507_343# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1397 S21 a_628_991# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1398 C11 a_312_1226# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1399 a_374_1200# S02 a_374_1180# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1400 a_251_951# P20 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1401 a_336_823# P30 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1402 a_374_1249# a_312_1226# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1403 a_587_754# a_454_800# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1404 a_274_800# S03 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1405 a_749_346# C22 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1406 a_322_452# S04 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1407 P22 a_13_297# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1408 P22 a_13_297# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1409 S13 a_502_501# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1410 a_502_432# a_440_478# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1411 a_9_977# y1b a_34_943# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1412 a_15_41# y3d Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1413 a_37_428# x3b Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1414 a_84_1225# P10 a_84_1205# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1415 a_133_994# a_71_971# a_133_974# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1416 a_9_977# y1b Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1417 a_12_462# x3b Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1418 a_227_204# a_169_165# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1419 a_516_774# a_454_800# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1420 a_592_147# C14 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1421 a_152_380# P13 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1422 a_90_377# P22 a_90_357# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1423 S22 a_844_609# a_902_628# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1424 a_9_890# y2a a_34_856# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1425 a_628_922# a_566_968# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1426 a_9_890# y2a Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1427 a_36_687# x0d Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1428 P33 a_15_41# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1429 a_449_144# a_420_145# a_449_167# Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1430 a_722_648# a_664_658# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1431 a_131_636# P12 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1432 a_11_721# x0d Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1433 a_204_925# a_71_971# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1434 a_169_165# P32 a_169_145# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1435 a_90_377# P13 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1436 a_592_118# P33 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1437 P02 a_9_890# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1438 a_15_41# x3d Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1439 a_628_991# a_566_968# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1440 C03 a_412_586# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1441 P02 a_9_890# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1442 S24 a_772_167# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1443 a_664_589# a_602_635# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1444 a_311_587# a_249_633# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1445 a_336_823# a_274_800# a_336_803# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1446 C11 a_312_1226# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1447 a_587_754# a_454_800# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1448 P23 a_13_210# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1449 S13 a_502_452# a_560_471# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1450 a_312_1206# C01 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1451 P23 a_13_210# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1452 a_569_346# C13 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1453 a_349_214# a_287_191# a_349_194# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1454 a_40_7# x3d Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1455 S23 a_749_366# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1456 P00 a_7_1317# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1457 a_380_491# a_322_501# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1458 C14 a_449_144# Gnd Gnd nfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1459 a_516_774# a_394_813# a_516_754# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1460 a_322_432# a_260_478# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1461 a_414_924# a_384_925# a_414_947# Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1462 a_772_98# a_710_144# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1463 C13 a_602_431# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1464 a_336_774# a_274_800# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1465 a_287_171# C04 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1466 a_749_297# a_687_343# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1467 a_146_1248# a_84_1225# a_146_1228# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1468 a_722_648# a_664_609# a_722_628# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1469 a_420_145# a_287_191# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1470 a_146_1248# P01 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1471 a_204_925# a_71_971# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1472 a_782_635# a_722_648# a_782_615# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1473 a_36_603# x1c Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1474 C22 a_944_588# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1475 a_502_481# C03 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1476 a_11_637# x1c Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1477 S24 a_772_118# a_830_137# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1478 a_602_635# C12 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1479 a_191_984# a_133_945# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1480 a_663_98# a_530_144# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1481 a_574_793# a_516_823# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1482 S04 a_152_400# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1483 a_650_157# a_592_167# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1484 a_36_516# x2b Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1485 a_844_609# a_782_635# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1486 a_944_588# a_915_589# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1487 a_131_587# a_69_633# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1488 a_394_813# a_336_774# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1489 C02 a_414_924# Gnd Gnd nfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1490 a_11_550# x2b Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1491 a_628_971# C11 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1492 S23 a_749_317# a_807_336# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1493 a_710_144# C23 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1494 a_380_491# a_322_452# a_380_471# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1495 a_374_1200# S02 Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1496 a_169_214# a_107_191# a_169_194# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1497 a_627_356# a_569_366# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1498 a_616_753# a_587_754# a_616_776# Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1499 a_374_1229# C01 Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1500 a_11_721# y3a a_36_687# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1501 a_336_774# S03 a_336_754# Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+M1502 a_592_167# a_530_144# Vdd Vdd pfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+M1503 a_602_431# a_573_432# Gnd Gnd nfet w=3 l=2
++  ad=0 pd=0 as=0 ps=0
+C0 a_8_1142# Vdd 2.42fF
+C1 P12 Vdd 4.48fF
+C2 a_382_587# Vdd 2.27fF
+C3 Vdd a_7_1317# 2.42fF
+C4 a_374_1200# Vdd 2.18fF
+C5 C12 Vdd 4.75fF
+C6 a_374_1249# Vdd 2.42fF
+C7 a_313_994# Vdd 2.42fF
+C8 a_311_607# Vdd 2.18fF
+C9 C02 Vdd 4.75fF
+C10 a_13_210# Vdd 2.42fF
+C11 a_249_633# Vdd 5.46fF
+C12 a_507_343# Vdd 5.46fF
+C13 a_844_609# Vdd 2.18fF
+C14 a_13_297# Vdd 2.42fF
+C15 a_274_800# Vdd 5.46fF
+C16 a_260_478# Vdd 5.46fF
+C17 a_9_977# Vdd 2.42fF
+C18 C22 Vdd 4.75fF
+C19 a_592_118# Vdd 2.18fF
+C20 P20 Vdd 4.89fF
+C21 a_311_656# Vdd 2.42fF
+C22 a_569_366# Vdd 2.42fF
+C23 a_628_942# Vdd 2.18fF
+C24 a_336_823# Vdd 2.42fF
+C25 a_322_501# Vdd 2.42fF
+C26 a_420_145# Vdd 2.27fF
+C27 P03 Vdd 4.89fF
+C28 a_90_377# Vdd 5.46fF
+C29 a_133_945# Vdd 2.18fF
+C30 S13 Vdd 4.02fF
+C31 a_169_165# Vdd 2.18fF
+C32 P10 Vdd 3.19fF
+C33 a_844_658# Vdd 2.42fF
+C34 Vdd a_84_1225# 5.46fF
+C35 S04 Vdd 4.02fF
+C36 C14 Vdd 4.34fF
+C37 P22 Vdd 3.19fF
+C38 a_722_648# Vdd 4.02fF
+C39 C21 Vdd 5.22fF
+C40 a_131_607# Vdd 2.18fF
+C41 C04 Vdd 5.22fF
+C42 C03 Vdd 4.75fF
+C43 Vdd a_312_1226# 5.46fF
+C44 P23 Vdd 4.48fF
+C45 a_10_802# Vdd 2.42fF
+C46 a_380_491# Vdd 4.02fF
+C47 a_710_144# Vdd 5.46fF
+C48 a_152_351# Vdd 2.18fF
+C49 a_9_890# Vdd 2.42fF
+C50 a_11_550# Vdd 2.42fF
+C51 a_349_165# Vdd 2.18fF
+C52 a_587_754# Vdd 2.27fF
+C53 C13 Vdd 4.75fF
+C54 a_71_971# Vdd 5.46fF
+C55 a_569_317# Vdd 2.18fF
+C56 a_384_925# Vdd 2.27fF
+C57 a_287_191# Vdd 5.46fF
+C58 a_394_813# Vdd 4.02fF
+C59 a_12_462# Vdd 2.42fF
+C60 a_592_167# Vdd 2.42fF
+C61 a_782_635# Vdd 5.46fF
+C62 a_628_991# Vdd 2.42fF
+C63 S02 Vdd 4.02fF
+C64 a_14_122# Vdd 2.42fF
+C65 a_133_994# Vdd 2.42fF
+C66 a_915_589# Vdd 2.27fF
+C67 a_349_214# Vdd 2.42fF
+C68 a_69_633# Vdd 5.46fF
+C69 a_15_41# Vdd 2.42fF
+C70 Vdd Gnd 14.13fF
+C71 C23 Vdd 4.75fF
+C72 P30 Vdd 4.15fF
+C73 P31 Vdd 4.48fF
+C74 a_566_968# Vdd 5.46fF
+C75 a_749_317# Vdd 2.18fF
+C76 P32 Vdd 3.19fF
+C77 a_516_774# Vdd 2.18fF
+C78 P33 Vdd 3.19fF
+C79 a_131_656# Vdd 2.42fF
+C80 a_687_343# Vdd 5.46fF
+C81 S12 Vdd 4.02fF
+C82 a_454_800# Vdd 5.46fF
+C83 a_440_478# Vdd 5.46fF
+C84 P13 Vdd 4.48fF
+C85 a_843_98# Vdd 2.27fF
+C86 P02 Vdd 3.19fF
+C87 a_7_1230# Vdd 2.42fF
+C88 a_650_157# Vdd 4.02fF
+C89 a_9_1061# Vdd 2.42fF
+C90 a_664_658# Vdd 2.42fF
+C91 a_749_366# Vdd 2.42fF
+C92 Vdd P01 4.48fF
+C93 a_516_823# Vdd 2.42fF
+C94 a_502_501# Vdd 2.42fF
+C95 a_11_721# Vdd 2.42fF
+C96 a_152_400# Vdd 2.42fF
+C97 a_191_984# Vdd 4.02fF
+C98 a_664_609# Vdd 2.18fF
+C99 a_227_204# Vdd 4.02fF
+C100 a_146_1199# Vdd 2.18fF
+C101 a_573_432# Vdd 2.27fF
+C102 a_772_118# Vdd 2.18fF
+C103 a_11_637# Vdd 2.42fF
+C104 Vdd C01 4.81fF
+C105 S03 Vdd 4.02fF
+C106 a_322_452# Vdd 2.18fF
+C107 a_530_144# Vdd 5.46fF
+C108 a_13_381# Vdd 2.42fF
+C109 P11 Vdd 4.48fF
+C110 a_189_646# Vdd 4.02fF
+C111 S14 Vdd 4.02fF
+C112 Vdd a_146_1248# 2.42fF
+C113 a_107_191# Vdd 5.46fF
+C114 a_336_774# Vdd 2.18fF
+C115 C11 Vdd 5.22fF
+C116 a_602_635# Vdd 5.46fF
+C117 a_313_945# Vdd 2.18fF
+C118 a_820_297# Vdd 2.27fF
+C119 a_251_971# Vdd 5.46fF
+C120 a_627_356# Vdd 4.02fF
+C121 a_169_214# Vdd 2.42fF
+C122 a_502_452# Vdd 2.18fF
+C123 a_772_167# Vdd 2.42fF
+C124 x3d Gnd 5.23fF
+C125 y3d Gnd 5.47fF
+C126 a_15_41# Gnd 10.83fF
+C127 x2d Gnd 5.23fF
+C128 y3c Gnd 5.47fF
+C129 C_out Gnd 2.54fF
+C130 a_872_97# Gnd 12.36fF
+C131 a_843_98# Gnd 11.97fF
+C132 a_663_98# Gnd 38.72fF
+C133 a_14_122# Gnd 10.83fF
+C134 S24 Gnd 4.51fF
+C135 a_772_118# Gnd 20.84fF
+C136 a_650_157# Gnd 38.14fF
+C137 a_592_118# Gnd 20.84fF
+C138 P33 Gnd 64.08fF
+C139 a_772_167# Gnd 13.69fF
+C140 a_592_167# Gnd 13.69fF
+C141 a_710_144# Gnd 44.15fF
+C142 a_530_144# Gnd 44.15fF
+C143 C14 Gnd 30.49fF
+C144 a_449_144# Gnd 12.36fF
+C145 a_420_145# Gnd 11.97fF
+C146 a_240_145# Gnd 38.72fF
+C147 a_349_165# Gnd 20.84fF
+C148 x3c Gnd 5.23fF
+C149 a_227_204# Gnd 38.14fF
+C150 a_169_165# Gnd 20.84fF
+C151 y2d Gnd 5.47fF
+C152 P32 Gnd 41.12fF
+C153 a_13_210# Gnd 10.83fF
+C154 a_349_214# Gnd 13.69fF
+C155 a_169_214# Gnd 13.69fF
+C156 a_287_191# Gnd 44.15fF
+C157 a_107_191# Gnd 44.15fF
+C158 P23 Gnd 35.06fF
+C159 x2c Gnd 5.23fF
+C160 y2c Gnd 5.47fF
+C161 a_13_297# Gnd 10.83fF
+C162 C23 Gnd 65.01fF
+C163 a_849_296# Gnd 12.36fF
+C164 a_820_297# Gnd 11.97fF
+C165 a_640_297# Gnd 38.72fF
+C166 S23 Gnd 4.51fF
+C167 a_749_317# Gnd 20.84fF
+C168 a_627_356# Gnd 38.14fF
+C169 a_569_317# Gnd 20.84fF
+C170 S14 Gnd 49.62fF
+C171 C04 Gnd 40.35fF
+C172 x1d Gnd 5.23fF
+C173 a_749_366# Gnd 13.69fF
+C174 a_569_366# Gnd 13.69fF
+C175 a_687_343# Gnd 44.15fF
+C176 a_507_343# Gnd 44.15fF
+C177 y3b Gnd 5.47fF
+C178 a_152_351# Gnd 20.84fF
+C179 a_13_381# Gnd 10.83fF
+C180 P22 Gnd 40.14fF
+C181 a_152_400# Gnd 13.69fF
+C182 a_90_377# Gnd 44.15fF
+C183 P13 Gnd 31.81fF
+C184 x3b Gnd 5.23fF
+C185 y1d Gnd 5.47fF
+C186 C13 Gnd 38.81fF
+C187 a_602_431# Gnd 12.36fF
+C188 a_573_432# Gnd 11.97fF
+C189 a_393_432# Gnd 38.72fF
+C190 a_502_452# Gnd 20.84fF
+C191 a_12_462# Gnd 10.83fF
+C192 a_380_491# Gnd 38.14fF
+C193 a_322_452# Gnd 20.84fF
+C194 S04 Gnd 38.85fF
+C195 a_502_501# Gnd 13.69fF
+C196 a_322_501# Gnd 13.69fF
+C197 a_440_478# Gnd 44.15fF
+C198 a_260_478# Gnd 44.15fF
+C199 P31 Gnd 45.24fF
+C200 x2b Gnd 5.23fF
+C201 y1c Gnd 5.47fF
+C202 a_11_550# Gnd 10.83fF
+C203 x1c Gnd 5.23fF
+C204 C22 Gnd 93.17fF
+C205 a_944_588# Gnd 12.36fF
+C206 a_915_589# Gnd 11.97fF
+C207 a_735_589# Gnd 38.72fF
+C208 C03 Gnd 38.00fF
+C209 S22 Gnd 4.51fF
+C210 a_844_609# Gnd 20.84fF
+C211 a_412_586# Gnd 12.36fF
+C212 a_382_587# Gnd 12.11fF
+C213 a_202_587# Gnd 38.86fF
+C214 a_722_648# Gnd 38.14fF
+C215 a_664_609# Gnd 20.84fF
+C216 S13 Gnd 44.86fF
+C217 a_311_607# Gnd 20.84fF
+C218 y2b Gnd 5.47fF
+C219 a_189_646# Gnd 38.14fF
+C220 a_131_607# Gnd 20.84fF
+C221 a_11_637# Gnd 10.83fF
+C222 a_844_658# Gnd 13.69fF
+C223 a_664_658# Gnd 13.69fF
+C224 a_311_656# Gnd 13.69fF
+C225 a_131_656# Gnd 13.69fF
+C226 a_249_633# Gnd 44.15fF
+C227 a_69_633# Gnd 44.15fF
+C228 P12 Gnd 29.16fF
+C229 a_782_635# Gnd 44.15fF
+C230 a_602_635# Gnd 44.15fF
+C231 x0d Gnd 5.23fF
+C232 y3a Gnd 5.47fF
+C233 a_11_721# Gnd 10.83fF
+C234 P03 Gnd 43.98fF
+C235 x3a Gnd 5.23fF
+C236 C12 Gnd 44.30fF
+C237 a_616_753# Gnd 12.36fF
+C238 a_587_754# Gnd 11.97fF
+C239 a_407_754# Gnd 38.72fF
+C240 a_516_774# Gnd 20.84fF
+C241 y0d Gnd 5.47fF
+C242 a_394_813# Gnd 38.14fF
+C243 a_336_774# Gnd 20.84fF
+C244 a_10_802# Gnd 10.83fF
+C245 S03 Gnd 54.11fF
+C246 x3y0 Gnd 16.26fF
+C247 a_516_823# Gnd 13.69fF
+C248 a_336_823# Gnd 13.69fF
+C249 a_454_800# Gnd 44.15fF
+C250 a_274_800# Gnd 44.15fF
+C251 P30 Gnd 24.29fF
+C252 x0c Gnd 5.23fF
+C253 y2a Gnd 5.47fF
+C254 a_9_890# Gnd 10.83fF
+C255 C21 Gnd 77.37fF
+C256 x1b Gnd 5.23fF
+C257 C02 Gnd 42.13fF
+C258 a_414_924# Gnd 12.36fF
+C259 a_384_925# Gnd 12.11fF
+C260 a_204_925# Gnd 38.86fF
+C261 S21 Gnd 4.51fF
+C262 a_628_942# Gnd 20.84fF
+C263 S12 Gnd 47.46fF
+C264 a_628_991# Gnd 13.69fF
+C265 a_313_945# Gnd 20.84fF
+C266 y1b Gnd 5.47fF
+C267 a_191_984# Gnd 38.14fF
+C268 a_133_945# Gnd 20.84fF
+C269 P02 Gnd 36.75fF
+C270 a_9_977# Gnd 10.83fF
+C271 a_566_968# Gnd 44.15fF
+C272 a_313_994# Gnd 13.69fF
+C273 a_133_994# Gnd 13.69fF
+C274 a_251_971# Gnd 44.15fF
+C275 a_71_971# Gnd 44.15fF
+C276 P11 Gnd 29.22fF
+C277 x2a Gnd 5.23fF
+C278 y0c Gnd 5.47fF
+C279 a_9_1061# Gnd 10.83fF
+C280 P20 Gnd 47.95fF
+C281 x1a Gnd 5.23fF
+C282 y0b Gnd 5.47fF
+C283 a_8_1142# Gnd 10.83fF
+C284 C11 Gnd 44.34fF
+C285 x0b Gnd 5.23fF
+C286 S11 Gnd 4.51fF
+C287 a_374_1200# Gnd 20.84fF
+C288 S02 Gnd 58.12fF
+C289 y1a Gnd 5.47fF
+C290 S01 Gnd 4.51fF
+C291 a_146_1199# Gnd 20.84fF
+C292 P10 Gnd 40.38fF
+C293 a_7_1230# Gnd 10.83fF
+C294 a_374_1249# Gnd 13.69fF
+C295 a_146_1248# Gnd 13.69fF
+C296 a_312_1226# Gnd 44.15fF
+C297 C01 Gnd 44.21fF
+C298 a_84_1225# Gnd 44.15fF
+C299 P01 Gnd 31.33fF
+C300 x0a Gnd 5.23fF
+C301 y0a Gnd 5.47fF
+C302 Gnd Gnd 1191.04fF
+C303 a_7_1317# Gnd 10.83fF
+C304 Vdd Gnd 883.16fF
